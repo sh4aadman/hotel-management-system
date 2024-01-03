@@ -1,0 +1,74 @@
+[
+  {
+    "uid": 1,
+    "category_id": 1,
+    "category": "Standard Room",
+    "rooms_id": 1,
+    "name": "Cozy Retreat",
+    "image": "https://i.ibb.co/J7rGFHv/luxury-bedroom-hotel.jpg",
+    "price_per_night": 100,
+    "description": "Basic hotel room with essential amenities, including a comfortable bed, private bathroom, TV, and Wi-Fi. Suitable for two guests.",
+    "accommodates": 2,
+    "space": 25
+  },
+  {
+    "uid": 2,
+    "category_id": 1,
+    "category": "Standard Room",
+    "rooms_id": 2,
+    "name": "Tranquil Haven",
+    "image": "https://i.ibb.co/sH24nST/luxury-classic-modern-bedroom-suite-hotel.jpg",
+    "price_per_night": 110,
+    "description": "Standard room offering enhanced facilities such as upgraded bedding, improved toiletries, better entertainment options, and sometimes additional space. Perfect for a comfortable stay for two guests.",
+    "accommodates": 2,
+    "space": 30
+  },
+  {
+    "uid": 3,
+    "category_id": 2,
+    "category": "Deluxe Room",
+    "rooms_id": 1,
+    "name": "Luxury Suite",
+    "image": "https://i.ibb.co/74xPb6L/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table.jpg",
+    "price_per_night": 200,
+    "description": "Luxurious rooms with spacious layouts, high-quality bedding, lavish bathrooms, advanced entertainment systems, and sometimes exclusive access to lounges. Ideal for up to four guests seeking a more indulgent experience.",
+    "accommodates": 4,
+    "space": 35
+  },
+  {
+    "uid": 4,
+    "category_id": 2,
+    "category": "Deluxe Room",
+    "rooms_id": 2,
+    "name": "Prestige Room",
+    "image": "https://i.ibb.co/Ny9z7N5/luxury-bedroom-interior-with-rich-furniture-scenic-view-from-walkout-deck.jpg",
+    "price_per_night": 210,
+    "description": "Deluxe accommodations with refined luxury, spacious layout, upscale bedding, lavish bathrooms, advanced entertainment, and potential access to exclusive dining and services. Great for up to four guests seeking exclusive comfort.",
+    "accommodates": 4,
+    "space": 45
+  },
+  {
+    "uid": 5,
+    "category_id": 3,
+    "category": "Suite",
+    "rooms_id": 1,
+    "name": "Executive Suite",
+    "image": "https://i.ibb.co/vBNhBDP/3d-rendering-luxury-bedroom-suite-resort-hotel-with-twin-bed-living.jpg",
+    "price_per_night": 300,
+    "description": "Expansive suites with separate living, dining, and work areas, lavish bedrooms, opulent bathrooms, advanced entertainment, and potentially exclusive amenities. Suitable for up to six guests seeking luxurious indulgence.",
+    "accommodates": 6,
+    "space": 60
+  },
+  {
+    "uid": 6,
+    "category_id": 3,
+    "category": "Suite",
+    "rooms_id": 2,
+    "name": "Presidential Suite",
+    "image": "https://i.ibb.co/MRnfWpP/spacious-hotel-room-with-rug.jpg",
+    "price_per_night": 350,
+    "description": "Palatial suites offering extravagant facilities, sprawling living spaces, luxurious bedrooms and bathrooms, advanced entertainment, and potential exclusive services. Perfect for up to six discerning guests seeking elite experiences.",
+    "accommodates": 6,
+    "space": 70
+  }
+]
